@@ -1,0 +1,145 @@
+<?php
+return [
+    'navigation' => [
+        'home' => 'Accueil',
+        'bans' => 'Ban',
+        'store' => 'Boutique'
+    ],
+    'footer' => [
+        'tos' => 'Conditions Générale',
+        'privacy_policy' => 'Politique de Confidentialité',
+        'impressum' => 'Mentions Légal'
+    ],
+    'users' => [
+        'users' => 'Utilisateurs',
+        'user_list' => 'Liste des Utilisateurs',
+        'name_input_placeholder' => 'Pseudo',
+        'role_select_any' => 'Tous',
+        'search_btn' => 'Rechercher'
+    ],
+    'user_dropdown' => [
+        'sign_in' => 'Se Connecter',
+        'profile' => 'Profil',
+        'notifications' => 'Notifications',
+        'purchases' => 'Achats',
+        'sign_out' => 'Se Déconnecter'
+    ],
+    'authentication' => [
+        'sign_in_description' => 'Connexion via : ',
+        'link_minecraft_tooltip' => 'Entrez cette commande dans le chat du jeu pour lier votre compte Minecraft.'
+    ],
+    'landing' => [
+        'join' => 'Rejoindre',
+        'offline' => 'Déconnecter',
+        'community_title' => 'Communauté',
+        'monthly_players' => 'Joueurs Mensuels',
+        'total_players' => 'Joueurs Total',
+        'registered_users' => 'Utilisateurs Inscrits',
+        'features_title' => 'Caractéristiques',
+        'servers_title' => 'Nos Serveurs',
+        'team_title' => 'Équipe Communautaire',
+        'discord_title' => 'Rejoindre notre Discord'
+    ],
+    'bans' => [
+        'ban' => 'Ban',
+        'unban' => 'DeBan',
+        'ban_length_placeholder' => 'Longeur',
+        'ban_length_tooltip' => 'Minutes (0 pour Permanent)',
+        'ban_list' => 'Ban liste',
+        'date' => 'Date',
+        'scope' => 'Portée',
+        'server' => 'Serveur',
+        'offender' => 'Joueur',
+        'admin' => 'Admin',
+        'length' => 'Longeur',
+        'reason' => 'Raison',
+        'reason_lowercase' => 'Raison',
+        'global' => 'Global',
+        'server' => 'Serveur',
+        'web' => 'Site',
+        'unknown' => 'Inconnu',
+        'permanent' => 'Permanent',
+        'no_bans_on_record' => 'L\'utilisateur n\'a aucun bannissement enregistré',
+        'no_records_found' => 'Aucun utilisateur trouvé',
+        'none' => 'Rien'
+    ],
+    'store' => [
+        'credits' => 'Credits',
+        'packages' => 'Packs',
+        'choose_a_server' => 'Choisir un serveur',
+        'browse_packages' => 'Parcourir les Packs',
+        'package_listing_credits' => 'Credits',
+        'package_listing_free' => 'Gratuit',
+        'package_listing_permanent' => 'Permanent',
+        'package_duration_for' => 'Pour',
+        'package_duration_days' => 'Jours',
+        'package_details' => 'Details',
+        'purchase' => 'Acheter',
+        'purchase_paypal' => 'Achat via Paypal',
+        'purchase_stripe' => 'Achat via Stripe',
+        'extend' => 'Étendre',
+        'credits_tooltip' => 'Les crédits récemment achetés peuvent mettre un certain temps à apparaître.',
+        'credits_input_placeholder' => 'amount of credits',
+        'monthly_goal' => 'Objectif mensuel',
+        'credits_amount_placeholder' => 'Montant du crédit',
+        'top_donators' => 'Top donateurs',
+        'recent_donations' => 'Donnations récente',
+        'sign_in_to_purchase_credits' => 'Se connecter pour acheter des crédits',
+        'tos_purchase_disclaimer' => 'En effectuant un achat, vous signifiez votre accord avec les %s.',
+        'payment_reversal_notification' => 'Transaction %s annulée (client interdit)',
+        'payments' => 'Paiements',
+        'package_purchases' => 'Pack Acheter',
+        'no_payments' => 'Aucun paiement à afficher',
+        'no_purchases' => 'Aucun achat à afficher',
+        'redeemed' => 'Racheté',
+        'unredeemed' => 'Non Racheté',
+        'expired' => 'Expiré',
+        'purchase_not_signed_in_title' => 'Tu n'est pas connecté',
+        'purchase_not_signed_in_description' => 'Vous devez être connecté pour acheter des Packs.',
+        'purchase_acknowledge_btn' => 'OK',
+        'purchase_amount_too_low_title' => 'Montant trop faible',
+        'purchase_amount_too_low_description' => 'En raison des frais de transaction, vous devez acheter au moins %s crédits par transaction. Merci de votre compréhension.',
+        'purchase_redirecting_title' => 'Veuillez patienter',
+        'purchase_redirecting_description' => 'Vous allez être redirigé vers la page de paiement..',
+        'purchase_redirecting_error_title' => 'Erreur de redirection vers le paiement ',
+        'confirm_purchase_title' => 'Achat confirmé',
+        'confirm_purchase_description' => 'Êtes-vous sur de vouloir acheter le Pack %s pour %s credits?',
+        'confirm_purchase_description_free' => 'Êtes-vous sur de vouloir le Pack %s ?',
+        'confirm_purchase' => 'Oui, acheter!',
+        'cancel_purchase' => 'Annuler',
+        'purchase_success_title' => 'Pack Acheter!',
+        'purchase_success_description' => 'Il sera automatiquement donné lors de votre prochaine connection au serveur.',
+        'insufficient_funds_title' => 'Fonds Insuffisant',
+        'insufficient_funds_description' => 'Vous avez besoin de plus de crédits pour acheter cela.',
+        'purchase_limit_reached' => 'Achat limite atteint',
+        'purchase_limit_reached_title' => 'Achat limite atteint',
+        'purchase_limit_reached_description' => 'Vous ne pouvez pas acheter d'autres Packs de ce type.'
+    ],
+    'profile' => [
+        'profile_page_title' => 'Profile désactivé %s',
+        'steam_btn' => 'Voir',
+        'info' => 'Info',
+        'joined' => 'Rejoindre',
+        'last_seen' => 'Dernière visite',
+        'last_played' => 'Dernier joueur',
+        'linked_accounts' => 'Comptes liés'
+    ],
+    'notifications' => [
+        'mark_all_read_btn' => 'Marquer tout comme lu',
+        'no_notifications' => 'Aucune notification trouvée',
+        'web_push_subscribe_btn' => 'Activé les Alertes',
+        'web_push_unsubscribe_btn' => 'Désactiver les Alertes'
+    ],
+    'loading_screen' => [
+        'welcome' => 'Bienvenue, %s!',
+        'about_us' => 'à propos de nous',
+        'rules' => 'Règles',
+        'gamemode_map' => 'Vous jouer en %s sur %s.',
+        'darkrp_wallet' => '%s €',
+        'pointshop_points' => '%s points',
+        'pointshop2_points' => '%s points · %s points premium'
+    ],
+    'admin' => [
+        'error_dependent_store_package' => 'Les packs associés à ce serveur doivent être supprimés avant de supprimer ce Serveur.'
+    ]
+];
