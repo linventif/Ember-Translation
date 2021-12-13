@@ -39,7 +39,7 @@ return [
         'mentioned_notification' => '%s vous a mentionné dans un Message',
         'search' => 'Rechercher',
         'search_options' => 'Options de recherche',
-        'forum_search_placeholder' => 'Rechercher par Sujet, Publication ou Nom d'Auteur',
+        'forum_search_placeholder' => 'Rechercher par Sujet, Publication ou Nom d\'Auteur',
         'no_results' => 'Aucun Résultats'
     ]
 ];

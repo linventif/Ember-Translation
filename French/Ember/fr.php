@@ -94,7 +94,7 @@ return [
         'redeemed' => 'Racheté',
         'unredeemed' => 'Non Racheté',
         'expired' => 'Expiré',
-        'purchase_not_signed_in_title' => 'Tu n'est pas connecté',
+        'purchase_not_signed_in_title' => 'Tu n\'est pas connecté',
         'purchase_not_signed_in_description' => 'Vous devez être connecté pour acheter des Packs.',
         'purchase_acknowledge_btn' => 'OK',
         'purchase_amount_too_low_title' => 'Montant trop faible',
@@ -113,7 +113,7 @@ return [
         'insufficient_funds_description' => 'Vous avez besoin de plus de crédits pour acheter cela.',
         'purchase_limit_reached' => 'Achat limite atteint',
         'purchase_limit_reached_title' => 'Achat limite atteint',
-        'purchase_limit_reached_description' => 'Vous ne pouvez pas acheter d'autres Packs de ce type.'
+        'purchase_limit_reached_description' => 'Vous ne pouvez pas acheter d\'autres Packs de ce type.'
     ],
     'profile' => [
         'profile_page_title' => 'Profile désactivé %s',
