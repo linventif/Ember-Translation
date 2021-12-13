@@ -3,7 +3,7 @@
 Translation for Ember
 
 
-
+&nbsp;
 ### Compatible Version
 
 
@@ -14,7 +14,7 @@ Ember Forum : 2.3.0
 Ember Discord : 1.1.5
 
 
-
+&nbsp;
 ### File path
 
 Ember : /resources/lang
@@ -24,7 +24,7 @@ Ember Forum : /modules/forums/resources/lang
 Ember Discord : /modules/discord/resources/lang
 
 
-
+&nbsp;
 ### Contact Me :
 
 Discord -> Linventif#1909
