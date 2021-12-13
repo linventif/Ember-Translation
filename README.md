@@ -1,21 +1,31 @@
 # Ember Translation
+
 Translation for Ember
 
 
-## Compatible Version
+
+### Compatible Version
+
 
 Ember : 2.7.0
+
 Ember Forum : 2.3.0
+
 Ember Discord : 1.1.5
 
 
-## File path
+
+### File path
+
 Ember : /resources/lang
+
 Ember Forum : /modules/forums/resources/lang
+
 Ember Discord : /modules/discord/resources/lang
 
 
-## Contact Me :
+
+### Contact Me :
 
 Discord -> Linventif#1909
 
