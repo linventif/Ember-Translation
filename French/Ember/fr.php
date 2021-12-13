@@ -107,7 +107,7 @@ return [
         'confirm_purchase_description_free' => 'Êtes-vous sur de vouloir le Pack %s ?',
         'confirm_purchase' => 'Oui, acheter!',
         'cancel_purchase' => 'Annuler',
-        'purchase_success_title' => 'Pack Acheter!',
+        'purchase_success_title' => 'Pack Acheter',
         'purchase_success_description' => 'Il sera automatiquement donné lors de votre prochaine connection au serveur.',
         'insufficient_funds_title' => 'Fonds Insuffisant',
         'insufficient_funds_description' => 'Vous avez besoin de plus de crédits pour acheter cela.',
