@@ -1,17 +1,17 @@
 # Ember Translation
 
-Translation for Ember
+Translation for Ember & DLC
 
 
 &nbsp;
 ### Compatible Version
 
 
-Ember : 2.7.0
+Ember : 2.8.2
 
-Ember Forum : 2.3.0
+DLC : Ember Forum : 2.4.0
 
-Ember Discord : 1.1.5
+DLC : Ember Discord : 1.2.0
 
 
 &nbsp;
