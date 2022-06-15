@@ -2,7 +2,7 @@
 
 Module create by Linventif under Licence Creative Common 
 
-Translation for Ember & DLC
+This module permit to give a boost of ( armor - ammo - health ) at every player spawn.
 
 Only work with Ember
 
@@ -11,16 +11,7 @@ Ember on Gmod Store : https://www.gmodstore.com/market/view/ember-donation-syste
 
 
 
-### Ember Translation Compatible Version
-
-Ember : 2.8.2
-
-DLC : Ember Forum : 2.4.0
-
-DLC : Ember Discord : 1.2.0
-
-
-### Ember Boost Shop Pack Compatible Version
+### Ember Compatible Version
 
 Ember : 2.10.2
 
@@ -28,13 +19,7 @@ Ember : 2.10.2
 
 ### Installation
 
-Just move the folder into your webserver.
-
-Ember : /resources/lang
-
-Ember Forum : /modules/forums/resources/lang
-
-Ember Discord : /modules/discord/resources/lang
+Just move the folder ember in your addon folder.
 
 
 
