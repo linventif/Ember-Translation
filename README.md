@@ -11,7 +11,7 @@ Ember on Gmod Store : https://www.gmodstore.com/market/view/ember-donation-syste
 
 
 
-### Ember Translation Compatible Version
+# Ember Translation Compatible Version
 
 Ember : 2.8.2
 
@@ -20,13 +20,13 @@ DLC : Ember Forum : 2.4.0
 DLC : Ember Discord : 1.2.0
 
 
-### Ember Boost Shop Pack Compatible Version
+# Ember Boost Shop Pack Compatible Version
 
 Ember : 2.10.2
 
 
 
-### Installation
+# Installation
 
 Just move the folder into your webserver.
 
@@ -45,7 +45,7 @@ https://creativecommons.org/licenses/by-nc-sa/3.0/
 
 
 
-### Contact Me :
+# Contact Me :
 
 Discord -> Linventif#0253
 
