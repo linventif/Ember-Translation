@@ -7,6 +7,7 @@ Translation for Ember & DLC
 Only work with Ember
 
 Ember on Discord : https://discord.gg/g5C4SzT
+
 Ember on Gmod Store : https://www.gmodstore.com/market/view/ember-donation-system-bans-loading-screen-landing-index-page
 
 
