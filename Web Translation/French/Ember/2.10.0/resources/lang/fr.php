@@ -143,7 +143,7 @@ return [
         'mark_all_read_btn' => 'Marquer tout comme lu',
         'no_notifications' => 'Aucune notification trouvée',
         'web_push_subscribe_btn' => 'Activé les Alertes',
-        'web_push_unsubscribe_btn' => 'Désactiver les Alertes'
+        'web_push_unsubscribe_btn' => 'Désactiver les Alertes',
     ],
     'loading_screen' => [
         'welcome' => 'Bienvenue, %s!',
