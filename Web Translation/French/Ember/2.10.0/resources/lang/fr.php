@@ -61,8 +61,7 @@ return [
         'permanent' => 'Permanent',
         'no_bans_on_record' => 'L\'utilisateur n\'a aucun bannissement enregistré',
         'no_records_found' => 'Aucun utilisateur trouvé',
-        'none' => 'Rien'
-
+        'none' => 'Rien',
         'banned_banner_messsage' => 'Vous avez été banni.',
         'confirm_ban_title' => 'Confirmer le bannisement',
         'confirm_ban_description' => 'Voulez-vous vraiment bannir l\'utilisateur ?',
