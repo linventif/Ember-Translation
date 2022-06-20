@@ -3,19 +3,24 @@ local function giveStorePermaWeapons (ply)
 	if (ember.perma_weapons[ply:SteamID64()] != nil) then
 		for k, v in pairs(ember.perma_weapons[ply:SteamID64()]) do
 			if v == "boost_health" then
-				ply:ChatPrint("Active Shop Pack : Health Boost")
+				ply:ChatPrint("Active Boost : Health")
 				ply:SetMaxHealth(200)
 				ply:SetHealth(200)
 			elseif v == "boost_armor" then
-				ply:ChatPrint("Active Shop Pack : Armor Boost")
+				ply:ChatPrint("Active Boost : Armor")
 				ply:SetArmor(100)
 			elseif v == "boost_ammo" then
-				ply:ChatPrint("Active Shop Pack : Ammo Boost")
+				ply:ChatPrint("Active Boost : Ammo")
 				for i = 1, 100 do -- higher the number if you don't have all ammo type give
 					ply:SetAmmo(9999, i)
 				end
+			elseif v == "boost_speed" then
+				ply:SetSlowWalkSpeed(ply:GetSlowWalkSpeed() * 1.2)
+				ply:SetWalkSpeed(ply:GetWalkSpeed() * 1.2)
+				ply:SetRunSpeed(ply:GetRunSpeed() * 1.2)
+				ply:SetMaxSpeed(ply:GetMaxSpeed() * 1.2)
 			else
-				ply:ChatPrint("Active Shop Pack : " .. v)
+				ply:ChatPrint("Active Weapon : " .. v)
 				ply:Give(v)
 			end
 		end

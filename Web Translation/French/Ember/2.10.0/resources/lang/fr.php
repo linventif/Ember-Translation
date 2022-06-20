@@ -2,7 +2,7 @@
 return [
     'navigation' => [
         'home' => 'Accueil',
-        'bans' => 'Ban',
+        'bans' => 'Bans',
         'store' => 'Boutique'
     ],
     'footer' => [
@@ -160,6 +160,6 @@ return [
         'maintenance_mode_admin_message' => 'Mode maintenance actif.',
     ],
     'admin' => [
-        'error_dependent_store_package' => 'Les packs associés à ce serveur doivent être supprimés avant de supprimer ce Serveur.'
+        'error_dependent_store_package' => 'Les packs associés à ce serveur doivent être supprimés avant de pouvoir supprimer ce Serveur.'
     ]
 ];
