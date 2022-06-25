@@ -1,4 +1,4 @@
-# Inforamtions
+# Informations
 
 Module create by Linventif under Licence Creative Common 
 
@@ -24,7 +24,7 @@ Just move the folder ember in your addon folder.
 
 For use a boost you need to rensing him into the Permanent weapons section like : boost_health 
 
-Boost Disponible : boost_health : boost_ammor : boost_ammo
+Boost Disponible : boost_health : boost_ammor : boost_ammo : boost_speed
 
 
 

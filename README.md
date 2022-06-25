@@ -1,4 +1,4 @@
-# Inforamtions
+# Informations
 
 Module create by Linventif under Licence Creative Common 
 
